@@ -1,8 +1,8 @@
-# Pancakeswap SDK
+# LuchowSwap SDK
 
-Forked from the [Uniswap SDK](https://github.com/Uniswap/uniswap-v2-sdk/commit/a88048e9c4198a5bdaea00883ca00c8c8e582605).
+Forked from the [PancakeSwap SDK](https://github.com/pancakeswap/pancake-swap-sdk/commit/762acf823a5870033b3d58a2724e8078f272a1a0).
 
-You can refer to the Uniswap SDK documentation [uniswap.org](https://uniswap.org/docs/v2/SDK/getting-started/).
+You can refer to the PancakeSwap SDK documentation [pancakeswap.finance](https://docs.pancakeswap.finance/get-started).
 
 ## Running tests
 
@@ -11,13 +11,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/pancakeswap/pancake-swap-sdk.git
+git clone https://github.com/LuchowSwap/luchow-swap-sdk.git
 ```
 
-Move into the pancakeswap-sdk working directory
+Move into the luchow-swap-sdk working directory
 
 ```sh
-cd pancakeswap-sdk/
+cd luchow-swap-sdk/
 ```
 
 Install dependencies
